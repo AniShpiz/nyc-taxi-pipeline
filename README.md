@@ -11,7 +11,7 @@ An end-to-end data pipeline project that ingests, processes, and analyzes NYC Ye
 ```
 scripts/           # Python scripts (e.g., data download)
 data/              # Raw data files (ignored by Git)
-notebooks/         # Jupyter/Colab notebooks
+notebooks/         # Colab notebooks
 dashboard/         # Power BI dashboards (published version)
 diagrams/          # System architecture visuals
 ```
